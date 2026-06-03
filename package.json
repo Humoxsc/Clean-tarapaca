@@ -1,0 +1,13 @@
+{
+  "name": "clean-tarapaca-web",
+  "version": "1.0.0",
+  "description": "Sitio web Clean Tarapacá J&E",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./assets/tailwind.css --minify",
+    "dev:css": "tailwindcss -i ./src/input.css -o ./assets/tailwind.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
