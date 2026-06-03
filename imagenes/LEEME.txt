@@ -1,0 +1,52 @@
+==========================================================
+  📸 CARPETA DE FOTOS — Clean Tarapacá J&E
+==========================================================
+
+Aquí van TODAS las fotos de tu sitio web.
+Sube tus imágenes con EXACTAMENTE estos nombres y aparecerán
+automáticamente en la web. Mientras no subas una foto, se
+muestra un degradado de color (no se rompe nada).
+
+----------------------------------------------------------
+  ¿QUÉ FOTO VA EN CADA LUGAR?
+----------------------------------------------------------
+
+1) hero.jpg
+   → Imagen grande del inicio (al lado del título principal).
+   → Recomendado: foto de tu equipo trabajando o un espacio
+     impecable. Vertical. Ideal 1000 x 1250 px.
+
+2) antes.jpg  y  despues.jpg
+   → Las dos fotos del comparador "Antes / Después".
+   → Deben ser del MISMO lugar (una sucia, otra limpia).
+   → Horizontal. Ideal 1280 x 720 px cada una.
+
+3) galeria-1.jpg
+   galeria-2.jpg
+   galeria-3.jpg
+   galeria-4.jpg
+   → Las 4 fotos de la galería (oficinas, hogares, equipo,
+     tapices, etc.). Cuadradas. Ideal 800 x 800 px.
+
+4) cobertura.jpg   (opcional)
+   → Foto de fondo de la sección "Región de Tarapacá".
+   → Horizontal. Ideal 1200 x 900 px.
+
+5) logo.png   (opcional)
+   → Tu logo, si lo tienes. Fondo transparente (PNG).
+
+----------------------------------------------------------
+  ¿CÓMO SUBO LAS FOTOS? (desde GitHub, sin programar)
+----------------------------------------------------------
+
+1. Entra a: github.com/Humoxsc/Clean-tarapaca
+2. Abre la carpeta "imagenes".
+3. Botón "Add file" → "Upload files".
+4. Arrastra tus fotos (con los nombres de arriba) y
+   pon "Commit changes".
+5. Listo: en 1 minuto se ven en tu web publicada.
+
+CONSEJO: usa fotos livianas (menos de 500 KB cada una) para
+que la web cargue rápida. Puedes comprimirlas en squoosh.app
+
+==========================================================

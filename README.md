@@ -43,7 +43,12 @@ Reemplaza los datos de ejemplo por los reales:
 - **Correo:** `contacto@cleantarapaca.cl`.
 - **Instagram:** ya enlazado a `https://www.instagram.com/cleantarapaca_jye`.
 - **Dominio canónico:** `https://www.cleantarapaca.cl/` en las meta tags.
-- **Imágenes:** actualmente se usan degradados e iconos. Puedes sustituir los bloques de placeholder por fotos reales de trabajos (antes/después, equipo, etc.).
+- **Imágenes:** sube tus fotos a la carpeta `imagenes/` con los nombres indicados en `imagenes/LEEME.txt` (hero.jpg, antes.jpg, despues.jpg, galeria-1..4.jpg, cobertura.jpg). Aparecen automáticamente; mientras no existan, se muestra un degradado de respaldo.
+
+## 🌐 Publicación (GitHub Pages)
+
+Repositorio → **Settings → Pages → Build and deployment → Source: "Deploy from a branch"** → Branch: `main` / `(root)` → **Save**.
+La web queda publicada en: `https://humoxsc.github.io/Clean-tarapaca/`
 
 ## 🎨 Paleta corporativa
 
